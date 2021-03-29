@@ -1,5 +1,8 @@
 # DinoSore-Support
-Support for DinoSore App
+This Repository is meant as a support repo for DinoSore App on iOS and Android. 
+If you encounter any issues or bugs please create a issue with a detailed description.
+
+
 
 If you like this content feel free to buy me a coffee with the button down below. 
 
